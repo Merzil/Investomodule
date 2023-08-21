@@ -1,4 +1,4 @@
 <?php
-require_once "registration.php";
+include "registration.php";
 
 ?>
